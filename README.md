@@ -13,10 +13,3 @@ For [all packages](https://github.com/timyers/Timverse/blob/main/DESCRIPTION) on
 ``` r
 remotes::install_github("timyers/Timverse", upgrade=FALSE)
 ```
-
-For [a minimal set of packages](https://github.com/timyers/Timverse/blob/minimal/DESCRIPTION) on the main branch:
-
-``` r
-remotes::install_github("timyers/Timverse", ref="minimal", upgrade=FALSE)
-```
-
