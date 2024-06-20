@@ -11,12 +11,12 @@ Meta package for installing my most commonly used packages
 For [all packages](https://github.com/timyers/Timverse/blob/main/DESCRIPTION) on the main branch:
 
 ``` r
-remotes::install_github("stephenturner/Tverse", upgrade=FALSE)
+remotes::install_github("timyers/Timverse", upgrade=FALSE)
 ```
 
 For [a minimal set of packages](https://github.com/timyers/Timverse/blob/minimal/DESCRIPTION) on the main branch:
 
 ``` r
-remotes::install_github("stephenturner/Tverse", ref="minimal", upgrade=FALSE)
+remotes::install_github("timyers/Timverse", ref="minimal", upgrade=FALSE)
 ```
 
