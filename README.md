@@ -1,5 +1,5 @@
 
-# Tverse
+# Timverse
 
 <!-- badges: start -->
 <!-- badges: end -->
